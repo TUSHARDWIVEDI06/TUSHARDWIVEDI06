@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TUSHARDWIVEDI06
-- 👀 I’m interested in ...CODING
+- 👀 I’m interested in Devlopment and Data Science
 - 
-- 🌱 I’m currently learning ... C LANGUAGE
+- 🌱 I'hv experience in C, python, html, css, javascript, node.js, DSA using C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
